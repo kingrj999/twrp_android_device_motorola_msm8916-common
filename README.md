@@ -51,7 +51,7 @@ make clean
 make -j5 recoveryimage
 ```
 ## Building Multirom
-```
+```bash
 make recoveryimage # builds the recovery image
 make multirom # builds multirom binary
 make trampoline # builds trampoline - MultiROM's init daemon
